@@ -45,7 +45,7 @@ const routes = [
 
 const router = new VueRouter({
   mode: "history",
-  base: '/webjeje-2/',
+  base: '/webjeje/',
   routes
 })
 
