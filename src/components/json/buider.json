@@ -1,0 +1,279 @@
+{
+    "Classes": {
+      "Barbarian": {
+        "Option 1": {
+          "story": "Tribe of the Frozen Winds",
+          "description": "You joined the nomadic tribe of the Frozen Winds, a group descended from an ancient warrior culture. Your strength is tied to the spirits of the frozen wilds. After your tribe was wiped out by a marauding band of giants, you swore vengeance and set out alone to avenge your fallen kin."
+        },
+        "Option 2": {
+          "story": "Exiled Gladiator",
+          "description": "As a former gladiator in the brutal arena of Skaldar's Keep, you were forced to fight for your life, earning fame and respect. However, after one fateful battle, you defied your master's commands, killing the tyrant and escaping the arena. Now, you roam the lands, a warrior without a master, guided only by the call of battle."
+        },
+        "Option 3": {
+          "story": "Champion of the Wild Hunt",
+          "description": "You were chosen by the primal powers of the Wild Hunt to act as a protector of the natural order. The spirits of ancient beasts whisper in your ear, guiding your every step. You fight to keep the balance of nature intact and hunt down those who would disrupt it, from poachers to malevolent fey."
+        }
+      },
+      "Bard": {
+        "Option 1": {
+          "story": "Court Musician of the Eternal Court",
+          "description": "You once performed at the grand court of the fey Queen Titania in the Feywild. Blessed with eternal youth by the Queen herself, you are a master of enchantment and illusion. Your songs weave magic, and you use your talents to sway even the most stubborn hearts, all while gathering secrets for the Queen's court."
+        },
+        "Option 2": {
+          "story": "Wandering Minstrel",
+          "description": "Trained by a family of traveling performers, you spent your life on the road, entertaining both common folk and nobility alike. Through your songs, you recount the tales of forgotten heroes and legendary creatures, spreading stories and weaving bonds between disparate peoples."
+        },
+        "Option 3": {
+          "story": "Scholar of the Arcane Muse",
+          "description": "Once an apprentice to a famous wizard, you grew fascinated with the connection between magic and music. You spent years researching ancient tomes to unlock the secrets of combining both into a powerful form of art. Now, as a bard, you wield the power of magic through music, using your melodies to unlock arcane wonders."
+        }
+      },
+      "Cleric": {
+        "Option 1": {
+          "story": "Acolyte of Pelor",
+          "description": "As a young child, you were saved from a terrible plague by the divine intervention of Pelor, the Sun God. This miraculous event led you to dedicate your life to his service. You now travel the lands, healing the sick and bringing light to the darkest corners, always spreading the word of Pelor's mercy."
+        },
+        "Option 2": {
+          "story": "War Priest of Kord",
+          "description": "Raised in a temple to Kord, the God of Storms, you were trained in both martial combat and divine magic. Kord’s tempestuous nature filled you with a desire to fight for justice and strength. Now, as a war priest, you bring destruction to those who threaten peace, wielding divine power to smite your enemies."
+        },
+        "Option 3": {
+          "story": "Servant of the Raven Queen",
+          "description": "You are a devoted servant of the Raven Queen, the Goddess of Death and Fate. As her cleric, you stand at the crossroads between life and death, helping souls pass on peacefully while also safeguarding the balance of the mortal realm. You have learned to embrace the inevitability of death and seek to understand the mysteries of the afterlife."
+        }
+      },
+      "Druid": {
+        "Option 1": {
+          "story": "Protector of the Emerald Grove",
+          "description": "You were mentored by the druids of the sacred Emerald Grove, a hidden sanctuary deep within an ancient forest. As a druid, you are entrusted with protecting the natural world from the encroaching forces of civilization. The spirits of the forest guide you, and you are fiercely protective of the flora and fauna under your care."
+        },
+        "Option 2": {
+          "story": "Chosen of the Moon",
+          "description": "You were blessed by the Moon herself, becoming a conduit for her celestial power. Your transformation into a werebear was not a curse but a sacred gift, a bond with the primal forces of the world. Now, you defend nature with both ferocity and grace, ensuring the moon’s will is carried out."
+        },
+        "Option 3": {
+          "story": "Nomadic Shaman of the Desert",
+          "description": "You became a shaman for a nomadic tribe that wanders the vast desert, guided by the spirits of sand and wind. As the tribe’s shaman, you are the intermediary between the physical world and the spirit realm. Your connection to the desert's harsh beauty allows you to call upon elemental powers and protect your people from the ever-present dangers."
+        }
+      },
+      "Fighter": {
+        "Option 1": {
+          "story": "Mercenary Captain",
+          "description": "Once a leader of a mercenary company, you fought for gold, glory, and honor. However, after a betrayal left you scarred and disillusioned, you now walk a more personal path, seeking redemption or revenge against those who wronged you, all while honing your combat skills."
+        },
+        "Option 2": {
+          "story": "Knight of the Silver Order",
+          "description": "You belong to the Silver Order, an ancient order of knights sworn to protect the realm from supernatural threats. Your training was grueling, and your resolve is unwavering. You fight not for personal glory, but for the safety of all, upholding the honor of your order and the king you serve."
+        },
+        "Option 3": {
+          "story": "Arena Champion",
+          "description": "Trained in the pits of a gladiatorial arena, you became a champion by relying on both your skill and your ability to outsmart your opponents. Now, you fight not for coin or fame but for personal mastery, seeking out worthy opponents to test your abilities against."
+        }
+      },
+      "Monk": {
+        "Option 1": {
+          "story": "Disciple of the Way of the Four Winds",
+          "description": "Trained in a secluded monastery on a high mountain peak, you follow the Way of the Four Winds, an ancient martial philosophy that teaches balance between body, mind, and spirit. You use your discipline and inner peace to heal, protect, and fight with unyielding focus."
+        },
+        "Option 2": {
+          "story": "Wandering Monk of the Order of the Open Palm",
+          "description": "You were once part of a peaceful order that believed in open-handed combat as a means to achieve enlightenment. After your temple was destroyed by marauding bandits, you now wander the world seeking vengeance and redemption, helping others along the way with your unarmed skills."
+        },
+        "Option 3": {
+          "story": "Storm Fist of the Iron Palm Clan",
+          "description": "Trained in the brutal techniques of the Iron Palm Clan, you have mastered the art of martial combat combined with elemental power. Your fists strike with the force of a storm, and you seek to bring justice to those who have wronged you, using your discipline to channel the power of the elements."
+        }
+      },
+      "Paladin": {
+        "Option 1": {
+          "story": "Oath of Devotion to Bahamut",
+          "description": "You became a Paladin of Bahamut, the Platinum Dragon, after witnessing the destruction wrought by evil forces in your homeland. Swearing to uphold justice and protect the innocent, you dedicated your life to fighting tyranny and protecting the weak, always striving to uphold Bahamut’s ideals of honor and wisdom."
+        },
+        "Option 2": {
+          "story": "Oath of Vengeance",
+          "description": "After your family was slaughtered by a marauding band of orcs, you took an Oath of Vengeance, vowing to hunt down every last one of them. Your relentless pursuit of justice drives you to wage war on evil in all its forms, even if it means sacrificing your own peace in the process."
+        },
+        "Option 3": {
+          "story": "Oath of the Ancients",
+          "description": "You made a solemn oath to the forces of nature, pledging to protect the light of the world and fight against the encroaching darkness. As a Paladin of the Ancients, you believe in preserving life, protecting the natural world, and defending against the forces of corruption that threaten the balance of nature."
+        }
+      }
+    },
+    "Races": {
+        "Dwarf": {
+            "Hill Dwarf": {
+                "Option 1": {
+                    "story": "Keeper of the Deep Hearth",
+                    "description": "You were raised in a hidden settlement of hill dwarves, where the hearth and home were sacred. Your people are known for their wisdom and resilience. As a protector of the deep hearth, you ensure your kin’s safety, wielding ancient knowledge passed down through generations."
+                },
+                "Option 2": {
+                    "story": "Wanderer of the Rolling Hills",
+                    "description": "Unlike most hill dwarves, you felt the call of the open road. Leaving behind your ancestral halls, you sought to learn the ways of the wider world. The beauty of rolling landscapes inspires you, and you see yourself as a mediator between dwarves and other races."
+                }
+            },
+            "Mountain Dwarf": {
+                "Option 1": {
+                    "story": "Defender of the Stone Citadel",
+                    "description": "Born in a mountain stronghold, you trained as a warrior to defend your home from endless threats. The forges of your people burn brightly in your memory, and you fight to protect dwarven craftsmanship and heritage."
+                },
+                "Option 2": {
+                    "story": "Exile of the Peak",
+                    "description": "Once a proud smith of a mountain clan, you were falsely accused of treachery and exiled. With nothing but your tools and determination, you now wander the world, seeking redemption and the chance to clear your name."
+                }
+            }
+        },
+        "Elf": {
+            "High Elf": {
+                "Option 1": {
+                    "story": "Arcane Prodigy",
+                    "description": "Raised in an ancient elven city, you were immersed in arcane studies from a young age. Your mastery of magic is unparalleled among your peers, and you seek to unlock the mysteries of the universe."
+                },
+                "Option 2": {
+                    "story": "Scholar of Forgotten Lore",
+                    "description": "Your fascination with ancient texts and long-lost civilizations led you to become a scholar. You travel the world, seeking ruins and forgotten knowledge to expand your understanding of the past."
+                }
+            },
+            "Wood Elf": {
+                "Option 1": {
+                    "story": "Guardian of the Emerald Glade",
+                    "description": "Born in a secluded forest village, you were trained as a protector of the natural world. The forest spirits guide your actions, and you are deeply attuned to the rhythm of nature."
+                },
+                "Option 2": {
+                    "story": "Outrider of the Wilds",
+                    "description": "You grew up as a scout and tracker, venturing far beyond the edges of the forest. Your skill in navigating treacherous terrain makes you an invaluable ally to those who dare the wilderness."
+                }
+            }
+        },
+        "Halfling": {
+            "Lightfoot Halfling": {
+                "Option 1": {
+                    "story": "Village Trickster",
+                    "description": "Known for your clever pranks and quick wit, you grew up as the heart of your village. Your charm and ingenuity often got you out of trouble and endeared you to your community."
+                },
+                "Option 2": {
+                    "story": "Roving Entertainer",
+                    "description": "You left your peaceful home to become a traveling performer. With songs, stories, and sleight-of-hand, you bring joy to those you meet, always looking for the next adventure."
+                }
+            },
+            "Stout Halfling": {
+                "Option 1": {
+                    "story": "Ironbelly Brewer",
+                    "description": "You were raised in a family of renowned brewers, known for your hearty ales and unmatched resilience. Your travels are as much about sharing your craft as they are about finding rare ingredients."
+                },
+                "Option 2": {
+                    "story": "Steadfast Guardian",
+                    "description": "You took up arms to protect your close-knit community from outside threats. Though small in stature, your bravery and determination make you a formidable defender."
+                }
+            }
+        },
+        "Human": {
+            "Option 1": {
+                "story": "Aspiring Hero",
+                "description": "Raised among common folk, you always dreamed of greatness. With sheer determination and hard work, you set out to make your mark on the world, inspired by the tales of legendary heroes."
+            },
+            "Option 2": {
+                "story": "Child of the Streets",
+                "description": "You grew up in a bustling city, learning to survive through cunning and street smarts. Now, you use your resourcefulness to navigate both the dangers and opportunities of the wider world."
+            }
+        },
+        "Dragonborn": {
+            "Option 1": {
+                "story": "Descendant of the Platinum Scale",
+                "description": "You claim lineage from a noble dragon, possibly even Bahamut himself. This ancestry inspires you to uphold justice and honor as you forge your destiny."
+            },
+            "Option 2": {
+                "story": "Flameborn Nomad",
+                "description": "Hailing from a desert tribe of fire-breathing dragonborn, you’ve embraced the harshness of your environment. Your fiery nature and unyielding spirit drive you to prove your strength in the face of adversity."
+            }
+        },
+        "Gnome": {
+            "Forest Gnome": {
+                "Option 1": {
+                    "story": "Caretaker of the Hidden Grove",
+                    "description": "You were raised in harmony with the forest, learning its secrets and nurturing its life. Your bond with nature is both magical and profound."
+                },
+                "Option 2": {
+                    "story": "Wanderer of the Green Path",
+                    "description": "As a traveler who never stays in one place for long, you explore forests and wildlands, spreading wisdom and uncovering the mysteries of the natural world."
+                }
+            },
+            "Rock Gnome": {
+                "Option 1": {
+                    "story": "Tinkerer Extraordinaire",
+                    "description": "Fascinated by mechanical contraptions, you grew up in a workshop filled with gears and gadgets. Your inventions, though sometimes eccentric, are a testament to your ingenuity."
+                },
+                "Option 2": {
+                    "story": "Seeker of Lost Relics",
+                    "description": "Your passion for uncovering ancient artifacts has led you to explore forgotten ruins. Each discovery fuels your curiosity and thirst for knowledge."
+                }
+            }
+        },
+        "Half-Elf": {
+            "Option 1": {
+                "story": "Diplomat's Child",
+                "description": "Born from the union of human and elf parents, you were raised in a cosmopolitan city where diplomacy and politics shaped your childhood. Your mixed heritage made you a natural bridge between cultures, and you often found yourself mediating disputes or fostering alliances."
+            },
+            "Option 2": {
+                "story": "Nomadic Wanderer",
+                "description": "Rejected by both human and elf societies, you grew up on the fringes, moving from one place to another and learning to survive in a world that often views you as an outsider."
+            }
+        },
+        "Half-Orc": {
+            "Option 1": {
+                "story": "Tribal Guardian",
+                "description": "Born into a tribe of orcs and raised with their traditions, you were chosen as the tribe's protector. Your human blood set you apart, granting you a unique perspective and a sense of strategy uncommon among your kin."
+            },
+            "Option 2": {
+                "story": "City Enforcer",
+                "description": "Growing up in the harsh underbelly of a sprawling metropolis, you worked as muscle for a local gang, using your strength and intimidating presence to enforce the gang's rules."
+            }
+        },
+        "Tiefling": {
+            "Option 1": {
+                "story": "Infernal Scholar",
+                "description": "Born under the shadow of an infernal pact, you were raised in a household that sought to understand and control the demonic influence within their bloodline."
+            },
+            "Option 2": {
+                "story": "Street Survivor",
+                "description": "Abandoned as a child due to the stigma of your infernal appearance, you learned to survive on the streets, relying on your wits and tenacity."
+            }
+        }
+    },
+        "Backgrounds": {
+            "Acolyte": {
+                "description": "You have spent your life in service to a god, learning sacred rites and providing sacrifices to the god or gods you worship. Serving the gods and discovering their sacred works will guide you to greatness."
+            },
+            "Charlatan": {
+                "description": "You're an expert in manipulation, prone to exaggeration and more than happy to profit from it. Bending the truth and turning allies against each other will lead to greater success down the road."
+            },
+            "Criminal": {
+                "description": "You have a history of breaking the law and survive by leveraging less-than-legal connections. Profiting from criminal enterprise will lead to greater opportunities in the future."
+            },
+            "Entertainer": {
+                "description": "You live to sway and subvert your audience, engaging common crowds and high society alike. Preserving art and bringing joy to the hapless and downtrodden heightens your charismatic aura."
+            },
+            "Folk Hero": {
+                "description": "You're a champion of the common people, challenging tyrants and monsters to protect the helpless. Saving innocents in imminent danger will make your legend grow."
+            },
+            "Guild Artisan": {
+                "description": "Your skill in a particular craft has earned you membership in a mercantile guild, offering privileges and protection while engaging in your art. Repairing and discovering rare crafts will bring new inspiration."
+            },
+            "Noble": {
+                "description": "You were raised in a family among the social elite, accustomed to power and privilege. Accumulating renown, power, and loyalty will raise your status."
+            },
+            "Outlander": {
+                "description": "You grew up in the wilds, learning to survive far from the comforts of civilisation. Surviving unusual hazards of the wild will enhance your prowess and understanding."
+            },
+            "Sage": {
+                "description": "You are curious and well-read, with an unending thirst for knowledge. Learning about rare lore of the world will inspire you to put this knowledge to greater purpose."
+            },
+            "Soldier": {
+                "description": "War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield."
+            },
+            "Urchin": {
+                "description": "After surviving a poor and bleak childhood, you know how to make the most out of very little. Using your street smarts bolsters your spirit for the journey ahead."
+            }
+      }
+    }
+  
+  
